@@ -1,4 +1,4 @@
-# Sana Patel — Software Engineer Portfolio
+# Shana Patel — Software Engineer Portfolio
 
 A personal developer portfolio showcasing my software engineering experience, technical skills, projects and continued learning across full-stack development, cloud engineering and AI-powered applications.
 
